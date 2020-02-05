@@ -6,8 +6,13 @@ The top level is just what language the code is in. Within that, I shall try to 
 ## Contents:
 
 ### Python:
+- **Compilers/**
+	- **prolog_fact_like_parser**
+		A naive parser for prolog-fact-like lines.
 
 ### Prolog:
+- **partial_lhm**
+	Use rules & seed-examples to derive all facts entailed.
 
 ### CPP
 
