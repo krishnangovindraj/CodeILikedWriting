@@ -9,7 +9,9 @@ The top level is just what language the code is in. Within that, I shall try to 
 - **Compilers/**
 	- **prolog_fact_like_parser**
 		A naive parser for prolog-fact-like lines.
-
+- **Logic/**
+	- **subsumption-lhm**/
+		Uses [subtle](https://dtai.cs.kuleuven.be/software/subtle/)'s theta-subsumption to try to construct a Least Herbrand Model for a knowledgebase. 
 ### Prolog:
 - **partial_lhm**
 	Use rules & seed-examples to derive all facts entailed.
