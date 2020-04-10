@@ -18,3 +18,6 @@ The top level is just what language the code is in. Within that, I shall try to 
 
 ### CPP
 
+
+### cc_stash:
+- Likely to contain reusable code for competitive programming. That way I don't have to dig up old submissions
